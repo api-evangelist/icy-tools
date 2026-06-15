@@ -10,23 +10,25 @@ x-category: "Cryptocurrency"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Cryptocurrency
-  - Public APIs
+- Cryptocurrency
+- Public APIs
 apis:
-  - name: icy.tools
-    description: "GraphQL based NFT API"
-    humanURL: https://developers.icy.tools/
-    baseURL: https://developers.icy.tools/
-    tags:
-      - Cryptocurrency
-    properties:
-      - type: Documentation
-        url: https://developers.icy.tools/
-common:
-  - type: Website
+- name: icy.tools
+  description: "GraphQL based NFT API"
+  humanURL: https://developers.icy.tools/
+  baseURL: https://developers.icy.tools/
+  tags:
+  - Cryptocurrency
+  properties:
+  - type: Documentation
     url: https://developers.icy.tools/
-  - type: PublicAPIsListing
-    url: https://github.com/public-apis/public-apis
+  - url: graphql/icy-tools-graphql.md
+    type: GraphQL
+common:
+- type: Website
+  url: https://developers.icy.tools/
+- type: PublicAPIsListing
+  url: https://github.com/public-apis/public-apis
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
