@@ -1,0 +1,13 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://www.quicknode.com/?utm_source=icy.tools
+url: https://www.quicknode.com/?utm_source=icy.tools
+certifications:
+- SOC 2
+- ISO 27001
+evidence:
+- source: https://www.quicknode.com/?utm_source=icy.tools
+  keywords:
+  - soc 2
+  - iso 27001
