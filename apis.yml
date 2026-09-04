@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://developers.icy.tools/', status: 301, note: 'declared website redirects to https://www.quicknode.com/?utm_source=icy.tools — a different registrable domain (icy.tools -> quicknode.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/icy-tools.png
 name: icy.tools
 description: "GraphQL based NFT API"
