@@ -47,8 +47,6 @@ apis:
   properties:
   - type: Documentation
     url: https://developers.icy.tools/
-  - url: graphql/icy-tools-graphql.md
-    type: GraphQL
 common:
 - type: TrustCenter
   url: security/icy-tools-trust-center.yml
