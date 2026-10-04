@@ -41,7 +41,6 @@ apis:
 - name: icy.tools
   description: "GraphQL based NFT API"
   humanURL: https://developers.icy.tools/
-  baseURL: https://developers.icy.tools/
   tags:
   - Cryptocurrency
   properties:
